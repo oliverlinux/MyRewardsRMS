@@ -1,5 +1,5 @@
 # MyRewardsRMS
 Manage reward programs -  ONLY WORKS ON LINUX AND PYTHON 2
 # Dependencies:
-Python 2 with glob and os module
+Python 2 with glob and os module <br>
 Nano text editor
