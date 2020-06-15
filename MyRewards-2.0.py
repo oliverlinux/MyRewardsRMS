@@ -1,6 +1,6 @@
 import os
 import glob
-print("By using, you agree to terms in eula.nano")
+print("By using, you agree to terms in License.md")
 def help():
     print('notepad(username),adduser(username),removeuser(user),listusers(),getpoints(user),setpoints(user) in setpoints or getpoints, press CTRL+x to exit, and if asked to save, press Y then [enter]. Users\' names are always enclosed in quotes. When listing users, ignore \"./\" and \".user\"')
 limit = False
